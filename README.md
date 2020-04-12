@@ -1,5 +1,4 @@
 # Numpy
-
 Python codes for using numpy packages for managing data size.
 
 Tools used:
