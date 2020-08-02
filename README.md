@@ -8,6 +8,6 @@ Languages used:
 1. Python
 
 Steps to Install:
-1. Open any file in VS Code.
-2. Run.
-3. Install numpy package by "pip install numpy"
+1. Open any file in VS Code
+2. Run
+3. Install numpy package by "pip install numpy".
